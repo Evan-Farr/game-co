@@ -1,0 +1,46 @@
+.navbar {
+  background-color: #4f494a;
+  color: #ffff07;
+}
+
+.btn-outline-success {
+  color: #ffff07;
+  background-color: #4f494a;
+  border-color: #ffff07;
+}
+
+.btn-outline-success:hover {
+  color: white;
+  background-color: #ffff07;
+  border-color: #ffff07;
+}
+
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.open, .navbar-light .navbar-nav .open>.nav-link {
+  color: #ffff07;
+}
+
+.jumbotron {
+  margin-left: 200px;
+  margin-right: 200px;
+}
+
+.display-3 {
+  font-size: 4vw;
+}
+
+.btn-primary {
+  color: #4f494a;
+  background-color: #ffff07;
+  border-color: #ffff07;
+}
+
+.btn-primary:hover {
+  color: #4f494a;
+  background-color: white;
+  border-color: #ffff07;
+}
+
+.card-primary {
+  background-color: #ffff07;
+  border-color: #ffff07;
+}
