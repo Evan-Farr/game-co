@@ -1,3 +1,7 @@
+body {
+  background-color: #e2e2e2;
+}
+
 .navbar {
   background-color: #4f494a;
   color: #ffff07;
@@ -20,6 +24,7 @@
 }
 
 .jumbotron {
+  background-color: rgba(236, 238, 239, .5);
   margin-left: 25vw;
   margin-right: 25vw;
   margin-top: 10vw;
@@ -49,4 +54,8 @@
 
 .carousel-inner .carousel-item img {
     margin: 0 auto;
+}
+
+.card-deck {
+  margin-bottom: 8px;
 }
