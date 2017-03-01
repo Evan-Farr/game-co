@@ -20,8 +20,10 @@
 }
 
 .jumbotron {
-  margin-left: 200px;
-  margin-right: 200px;
+  margin-left: 25vw;
+  margin-right: 25vw;
+  margin-top: 10vw;
+  margin-bottom: 20vw;
 }
 
 .display-3 {
