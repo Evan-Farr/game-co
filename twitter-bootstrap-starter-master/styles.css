@@ -44,3 +44,7 @@
   background-color: #ffff07;
   border-color: #ffff07;
 }
+
+.carousel-inner .carousel-item img {
+    margin: 0 auto;
+}
