@@ -84,8 +84,15 @@ body {
 #yellowBlockHome {
   min-height: 500px;
   background-color: #ffff07;
-  margin: 10px 0px 10px 0px;
+  margin: 10px 0px 0px 0px;
   width: 100%;
   border-top: 4px groove #4f494a;
-  border-bottom: 4px none #4f494a;
+  border-bottom: 4px groove #4f494a;
+}
+
+#footer {
+  background-color: #4f494a;
+  width: 100%;
+  min-height: 100px;
+  margin-top: 0px;
 }
