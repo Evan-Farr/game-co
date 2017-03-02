@@ -23,6 +23,10 @@ body {
   color: #ffff07;
 }
 
+.navbar-light .navbar-nav .nav-link {
+  color: white;
+}
+
 .jumbotron {
   background-color: rgba(236, 238, 239, .8);
 }
@@ -69,7 +73,7 @@ body {
 }
 
 #lineBreak {
-  border-bottom: 2px solid #ffff07;
+  border-bottom: 4px solid #ffff07;
   margin-top: 0;
 }
 
@@ -82,6 +86,6 @@ body {
   background-color: #ffff07;
   margin: 10px 0px 10px 0px;
   width: 100%;
-  border-top: 4px dotted #4f494a;
-  border-bottom: 4px dotted #4f494a;
+  border-top: 4px groove #4f494a;
+  border-bottom: 4px none #4f494a;
 }
