@@ -25,10 +25,7 @@ body {
 
 .jumbotron {
   background-color: rgba(236, 238, 239, .6);
-  margin-left: 45vw;
-  margin-right: 5vw;
-  margin-top: 10vw;
-  margin-bottom: 20vw;
+
 }
 
 .display-3 {
@@ -58,4 +55,8 @@ body {
 
 .card-deck {
   margin-bottom: 8px;
+}
+
+#lineBreak {
+  border-bottom: 2px solid #ffff07;
 }
