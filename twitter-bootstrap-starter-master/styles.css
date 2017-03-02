@@ -24,8 +24,7 @@ body {
 }
 
 .jumbotron {
-  background-color: rgba(236, 238, 239, .6);
-
+  background-color: rgba(236, 238, 239, .8);
 }
 
 .display-3 {
@@ -59,4 +58,9 @@ body {
 
 #lineBreak {
   border-bottom: 2px solid #ffff07;
+  margin-top: 0;
+}
+
+.carousel-control-prev-icon {
+  color: #ffff07;
 }
