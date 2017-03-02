@@ -43,6 +43,18 @@ body {
   border-color: #ffff07;
 }
 
+.btn-secondary {
+  color: #4f494a;
+  background-color: #ffff07;
+  border-color: #ffff07;
+}
+
+.btn-secondary:hover {
+  color: #4f494a;
+  background-color: white;
+  border-color: #ffff07;
+}
+
 .card-primary {
   background-color: #ffff07;
   border-color: #ffff07;
