@@ -7,11 +7,14 @@ body {
   color: #ffff07;
 }
 
-
 .btn-outline-success {
   color: #ffff07;
   background-color: #4f494a;
   border-color: #ffff07;
+}
+
+.blockquote {
+  border-right-color: #ffff07;
 }
 
 .row {
@@ -76,7 +79,7 @@ body {
   margin-bottom: 8px;
 }
 
-#lineBreak {
+.lineBreak {
   border-bottom: 4px solid #ffff07;
   margin-top: 0;
 }
