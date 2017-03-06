@@ -79,6 +79,12 @@ body {
   margin-bottom: 8px;
 }
 
+.card-img-top {
+  object-fit: cover;
+  height: 100%;
+  width: 100%;
+}
+
 .lineBreak {
   border-bottom: 4px solid #ffff07;
   margin-top: 0;
