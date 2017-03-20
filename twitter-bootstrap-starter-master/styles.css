@@ -17,6 +17,14 @@ body {
   border-right-color: #ffff07;
 }
 
+.card-blockquote > p {
+  color: black;
+}
+
+.card-blockquote > footer {
+  color: black;
+}
+
 .row {
   margin-top: 30px;
 }
